@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### I am an astrophysicist -> software engineer!
+
+### 🔭 I’m currently working at L3Harris WESCAM on some sweet NATO Secret stuff!
+
+### 🌱 I’m currently learning C++ and SQL!
+
+### ☕️ Check me out at: lacaille.dev
+
 <!--
 **kevinlacaille/kevinlacaille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
