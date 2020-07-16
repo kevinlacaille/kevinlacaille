@@ -6,8 +6,7 @@ I am an astrophysicist 🔭 -> software engineer 👨🏻‍💻
 
 🌱 I’m currently learning C++ and SQL!
 
-☕️ Check me out at: lacaille.dev
-
+☕️ Check me out at: [lacaille.dev](https://lacaille.dev)
 <!--
 **kevinlacaille/kevinlacaille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
