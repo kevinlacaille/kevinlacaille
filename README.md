@@ -4,7 +4,7 @@ I am an astrophysicist 🔭 -> software engineer 👨🏻‍💻
 
 ⚡ I’m currently working at L3Harris WESCAM on some sweet NATO Secret stuff!
 
-🌱 I’m currently learning C++ and SQL!
+🌱 I’m currently learning C++, SQL, and web development!
 
 ☕️ Check me out at: [lacaille.dev](https://lacaille.dev)
 <!--
