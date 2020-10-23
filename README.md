@@ -2,7 +2,7 @@
 
 I am an astrophysicist 🔭 -> software engineer 👨🏻‍💻 
 
-⚡ I’m currently working at L3Harris WESCAM on some cool image processing, object detection, & tracking projects (on a Bitbucket server)!
+⚡ I’m currently working at L3Harris WESCAM on some cool image processing, object detection, & tracking projects (on Bitbucket)!
 
 🌱 I’m currently learning C++, SQL, and web development!
 
