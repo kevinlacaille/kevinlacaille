@@ -1,10 +1,6 @@
-### Hi there 👋
+### astrophysicist 🔭 → software engineer 👨🏻‍💻
 
-I am an astrophysicist 🔭 -> software engineer 👨🏻‍💻 
-
-⚡ I’m currently working at L3Harris WESCAM on some cool computer vision, image processing, object detection, classification, & multi-target tracking projects (on Bitbucket)!
-
-🌱 I’m currently learning C++, SQL, and web development!
+🛰️ Now, I develop tools to empower fellow scientists and developers to explore the Earth at with Planet Labs' tiny satellites!
 
 ☕️ Check me out at: [lacaille.dev](https://lacaille.dev)
 <!--
