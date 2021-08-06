@@ -113,8 +113,8 @@ source $ZSH/oh-my-zsh.sh
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 # colorls
-alias ls='colorls'
-alias gs='colorls --gs'
+alias ls='colorls -A'
+alias gs='colorls --gs -A'
 
 # zshrc
 export STARSHIP_CONFIG=~/.starship/config.toml
