@@ -1,6 +1,6 @@
 ### astrophysicist 🔭 → software engineer 👨🏻‍💻
 
-🛰️ Now, I develop tools to empower fellow scientists and developers to explore the Earth at with Planet Labs' tiny satellites!
+🛰️ I develop tools to empower fellow scientists and developers to explore the Earth at with Planet Labs' tiny satellites!
 
 ☕️ Check me out at: [lacaille.dev](https://lacaille.dev)
 <!--
