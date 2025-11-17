@@ -1,19 +1,11 @@
-### astrophysicist 🔭 → software engineer 👨🏻‍💻
+### hey 👋
 
-🛰️ I develop tools to empower fellow scientists and developers to explore the Earth!
+**a geospatial software engineer, fueled by coffee and forests**
 
-☕️ Check me out at: [lacaille.dev](https://lacaille.dev)
-<!--
-**kevinlacaille/kevinlacaille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+building cloud-native pipelines for imagery, point clouds, and video, with a focus on computer vision and machine learning.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ⚙️ tools: `Python`, `GDAL`/`PDAL`, `PostGIS`, `Argo`, `AWS`
+* 🛰️ interests: geospatial systems, applied CV/ML, and STAC
+* 🤖 cv/ml focus: detection, segmentation, depth mapping, photogrammetry
+* 🌐 creating: geospatial data pipelines, ml-driven imagery workflows, and STAC ingestion tooling
+* 💬 happy to chat about geospatial ML, cloud pipelines, STAC, and imagery processing
